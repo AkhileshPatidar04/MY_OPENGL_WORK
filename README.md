@@ -1,4 +1,4 @@
-# OpenGL Learning & Rubik's Cube Solver GUI
+# OpenGL Learning for Rubik's Cube Solver and Chess GUI
 
 This repository documents my journey of learning **OpenGL** with the goal of building a **3D GUI for a Rubik's Cube Solver**.
 
